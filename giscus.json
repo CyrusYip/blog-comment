@@ -3,7 +3,6 @@
     "https://cyrusyip.org"
   ],
   "originsRegex": [
-    "https://.+\.cyrusyip\.org",
-    "http://localhost:[0-9]+"
+    "https://.+\.cyrusyip\.org"
   ]
 }
